@@ -1,0 +1,56 @@
+{
+    "name": "Carnival.io",
+    "description": "<p>We founded the world's first iPhone app company in 2007, leading strategy and app development more than 120 apps for Fortune 500 brands. With 15x No.1 apps under our belt, we knew we had found the secret to keeping mobile communities engaged. In January 2014, we launched Carnival Mobile Marketing Suite to give brands and their agencies innovative technology to keep up with \"always on\" mobile audiences.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/carnival-logo-small.png",
+    "tags": [
+        "agencies",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/carnival-io\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Carnival.io",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/carnival-logo-small.png",
+            "humanURL": "http:\/\/carnivalmobile.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/carnival-io-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/carnival-io-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.carnivalmobile.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.carnivalmobile.com\/feed\/"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/api.carnivalmobile.com\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/CarnivalMobile"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/carnivalmobile.com\/"
+        }
+    ]
+}
